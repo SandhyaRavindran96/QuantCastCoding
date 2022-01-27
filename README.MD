@@ -1,4 +1,4 @@
-#Most Active Cookie Quantcast Challenge
+# Most Active Cookie Quantcast Challenge
 
 Given a cookie log file in the following format:
 
@@ -18,7 +18,7 @@ cookie for specified day.
 ## To run the file
 >./run.sh
 
-##Algorithm
+## Algorithm
 1. Parse the command line arguments to get the name of log file and date.
 2. Preprocess the log file to check if it is formmated correctly.
 3. Retrieve all the data for the specified date
