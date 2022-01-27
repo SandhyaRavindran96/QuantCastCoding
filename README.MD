@@ -27,3 +27,9 @@ cookie for specified day.
 4. Get the most frequent cookies by using a dictionary (O(N) Algorithm).
 
 ## Running Environment Python 3.7
+
+## To run a new log file
+1) Make sure the file is a csv file with headers - "cookie", "timestamp"
+2) Replace the file name in run.sh with your specified file name
+3) Add the csv file to the src location.
+4) Run run.sh 
