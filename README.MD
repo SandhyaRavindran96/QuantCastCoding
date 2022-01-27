@@ -23,3 +23,5 @@ cookie for specified day.
 2. Preprocess the log file to check if it is formmated correctly.
 3. Retrieve all the data for the specified date
 4. Get the most frequent cookies by using a dictionary (O(N) Algorithm).
+
+## Running Environment Python 3.7
